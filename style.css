@@ -260,13 +260,13 @@ span{
     padding-top: 40px;
 }
 
-.about .about-title , .works-title{
+.about .about-title , .works-title , .contact-title{
     text-align: center;
     font-size: 25px;
     font-weight: 400;
 }
 
-.about .about-title span, .works-title span{
+.about .about-title span, .works-title span , .contact-title span{
     border: 2px solid #2ecc71;
     padding: 0 15px 0 15px ;
     border-radius: 30px;
